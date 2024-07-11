@@ -1,0 +1,63 @@
+-- despues de truncar la tabla
+
+INSERT INTO empleados (nombre, puesto, salario, fecha_contratacion)
+VALUES 
+("Juan Perez", "Desarrollador", 50000.00, "2022-01-15"),
+("Marta Lopez", "Analista de Datos", 59000.00, "2023-03-05"),
+("Ana Gomez", "Disenadora", 45000.00, "2022-02-10"),
+("Luis Martinez", "Scrum Master", 70000.00, "2011-08-14"),
+("Pedro Alvarez", "Tester", 60000.00, "2022-04-15"),
+("Sofia Herrera", "Consultor", 50000.00, "2022-05-20");
+
+--insercion de 50 registros adicionales
+
+INSERT INTO empleados (nombre, puesto, salario, fecha_contratacion) VALUES
+('Carlos Santana', 'Desarrollador', 48000.00, '2022-01-20'),
+('Lorena Ruiz', 'Diseñadora', 46000.00, '2022-02-14'),
+('Mario Vargas', 'Gerente de Proyecto', 72000.00, '2021-10-30'),
+('Elena Blanco', 'Analista de Datos', 57000.00, '2022-03-12'),
+('Andrés López', 'Tester', 41000.00, '2022-04-18'),
+('Lucía Pérez', 'Consultor', 61000.00, '2022-05-22'),
+('Gabriel Gómez', 'Desarrollador', 49000.00, '2022-01-25'),
+('Carmen Rivera', 'Diseñadora', 47000.00, '2022-02-18'),
+('Francisco Ortega', 'Gerente de Proyecto', 73000.00, '2021-10-25'),
+('Isabel Morales', 'Analista de Datos', 58000.00, '2022-03-18'),
+('Tomás Díaz', 'Tester', 42000.00, '2022-04-20'),
+('Natalia Vargas', 'Consultor', 62000.00, '2022-05-25'),
+('Ricardo Fernández', 'Desarrollador', 50000.00, '2022-01-30'),
+('Raquel Jiménez', 'Diseñadora', 48000.00, '2022-02-21'),
+('Felipe García', 'Gerente de Proyecto', 74000.00, '2021-10-20'),
+('Alicia Navarro', 'Analista de Datos', 59000.00, '2022-03-25'),
+('Miguel Romero', 'Tester', 43000.00, '2022-04-22'),
+('Adriana Muñoz', 'Consultor', 63000.00, '2022-05-28'),
+('Pablo Castillo', 'Desarrollador', 51000.00, '2022-01-28'),
+('Victoria Torres', 'Diseñadora', 49000.00, '2022-02-23'),
+('Eduardo Martín', 'Gerente de Proyecto', 75000.00, '2021-10-15'),
+('Rosa Méndez', 'Analista de Datos', 60000.00, '2022-03-28'),
+('Hugo Suárez', 'Tester', 44000.00, '2022-04-25'),
+('Teresa Sánchez', 'Consultor', 64000.00, '2022-05-30'),
+('Alejandro Hernández', 'Desarrollador', 52000.00, '2022-01-27'),
+('Patricia Castillo', 'Diseñadora', 50000.00, '2022-02-26'),
+('Jorge Delgado', 'Gerente de Proyecto', 76000.00, '2021-10-10'),
+('Sara Gil', 'Analista de Datos', 61000.00, '2022-03-31'),
+('Sebastián Reyes', 'Tester', 45000.00, '2022-04-28'),
+('Laura Fuentes', 'Consultor', 65000.00, '2022-06-01'),
+('Fernando Ortiz', 'Desarrollador', 53000.00, '2022-01-25'),
+('Clara López', 'Diseñadora', 51000.00, '2022-02-28'),
+('Roberto Morales', 'Gerente de Proyecto', 77000.00, '2021-10-05'),
+('Sonia Ruiz', 'Analista de Datos', 62000.00, '2022-04-02'),
+('Gonzalo Pérez', 'Tester', 46000.00, '2022-04-30'),
+('Ainhoa Gutiérrez', 'Consultor', 66000.00, '2022-06-03'),
+('Vicente Sánchez', 'Desarrollador', 54000.00, '2022-01-23'),
+('Ana García', 'Diseñadora', 52000.00, '2022-03-02'),
+('Daniel Torres', 'Gerente de Proyecto', 78000.00, '2021-10-01'),
+('Mónica Gómez', 'Analista de Datos', 63000.00, '2022-04-04'),
+('Ignacio Fernández', 'Tester', 47000.00, '2022-05-01'),
+('Julia Hernández', 'Consultor', 67000.00, '2022-06-05'),
+('Ramón Díaz', 'Desarrollador', 55000.00, '2022-01-21'),
+('Paula Navarro', 'Diseñadora', 53000.00, '2022-03-05'),
+('Antonio Jiménez', 'Gerente de Proyecto', 79000.00, '2021-09-25'),
+('Marta Romero', 'Analista de Datos', 64000.00, '2022-04-06'),
+('Esteban Morales', 'Tester', 48000.00, '2022-05-03'),
+('Sandra Martín', 'Consultor', 68000.00, '2022-06-07');
+

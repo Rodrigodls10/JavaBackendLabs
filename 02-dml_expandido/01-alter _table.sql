@@ -1,0 +1,5 @@
+ALTER TABLE empleados
+ADD COLUMN email VARCHAR(120),
+ADD COLUMN telefono VARCHAR(15),
+ADD COLUMN direccion VARCHAR(255),
+ADD COLUMN departamento_id INT;
