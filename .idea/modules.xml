@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_tipos_de_datos/01_tipos_de_datos.iml" filepath="$PROJECT_DIR$/01_tipos_de_datos/01_tipos_de_datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-tipos_primitivos/02-tipos_primitivos.iml" filepath="$PROJECT_DIR$/02-tipos_primitivos/02-tipos_primitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_estructuras_de_control/04_estructuras_de_control.iml" filepath="$PROJECT_DIR$/04_estructuras_de_control/04_estructuras_de_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BucleFor/BucleFor.iml" filepath="$PROJECT_DIR$/BucleFor/BucleFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bucles_labs_2/Bucles_labs_2.iml" filepath="$PROJECT_DIR$/Bucles_labs_2/Bucles_labs_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estructuras_de_control/Estructuras_de_control.iml" filepath="$PROJECT_DIR$/Estructuras_de_control/Estructuras_de_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funciones/Funciones_01/Funciones_01.iml" filepath="$PROJECT_DIR$/Funciones/Funciones_01/Funciones_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_modularidad/JavaBeans/JavaBeans.iml" filepath="$PROJECT_DIR$/06_modularidad/JavaBeans/JavaBeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_modularidad/Modulos_1/Modulos_1.iml" filepath="$PROJECT_DIR$/06_modularidad/Modulos_1/Modulos_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_modularidad/ProductBean/ProductBean.iml" filepath="$PROJECT_DIR$/06_modularidad/ProductBean/ProductBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion.iml" filepath="$PROJECT_DIR$/.idea/Programacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programacion_basica/Programacion_basica.iml" filepath="$PROJECT_DIR$/Programacion_basica/Programacion_basica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funciones/Random/Random.iml" filepath="$PROJECT_DIR$/Funciones/Random/Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SobrecargaDeMetodos/SobrecargaDeMetodos.iml" filepath="$PROJECT_DIR$/SobrecargaDeMetodos/SobrecargaDeMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-estructuras/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/07-estructuras/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_modularidad/biblioteca/biblioteca.iml" filepath="$PROJECT_DIR$/06_modularidad/biblioteca/biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bucle_while/bucle_while.iml" filepath="$PROJECT_DIR$/bucle_while/bucle_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-estructuras/estructuras/estructuras.iml" filepath="$PROJECT_DIR$/07-estructuras/estructuras/estructuras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_modularidad/gestorCuentas/gestorCuentas.iml" filepath="$PROJECT_DIR$/06_modularidad/gestorCuentas/gestorCuentas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello_world/hello_world.iml" filepath="$PROJECT_DIR$/hello_world/hello_world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-estructuras/linked_list/linked_list.iml" filepath="$PROJECT_DIR$/07-estructuras/linked_list/linked_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-estructuras/matrices/matrices.iml" filepath="$PROJECT_DIR$/07-estructuras/matrices/matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-estructuras/Sorting/untitled/untitled.iml" filepath="$PROJECT_DIR$/07-estructuras/Sorting/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
