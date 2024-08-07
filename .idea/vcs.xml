@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/01_tipos_de_datos/JavaBackendLabs" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/01_tipos_de_datos/tipos/JavaBackendLabs" vcs="Git" />
   </component>
 </project>
