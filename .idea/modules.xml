@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01_tipos_de_datos/01_tipos_de_datos.iml" filepath="$PROJECT_DIR$/01_tipos_de_datos/01_tipos_de_datos.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-tipos_primitivos/02-tipos_primitivos.iml" filepath="$PROJECT_DIR$/02-tipos_primitivos/02-tipos_primitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_labs_simulador_inversiones/02_labs_simulador_inversiones.iml" filepath="$PROJECT_DIR$/02_labs_simulador_inversiones/02_labs_simulador_inversiones.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_estructuras_de_control/04_estructuras_de_control.iml" filepath="$PROJECT_DIR$/04_estructuras_de_control/04_estructuras_de_control.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-Estructuras/05-Estructuras.iml" filepath="$PROJECT_DIR$/05-Estructuras/05-Estructuras.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-LinkedList/06-LinkedList.iml" filepath="$PROJECT_DIR$/06-LinkedList/06-LinkedList.iml" />
