@@ -1,0 +1,68 @@
+body {
+    font-family: 'Whisper', sans-serif; /* Aplicar la fuente personalizada */
+    background-color: #e0f7fa; /* Color de fondo suave */
+    color: #333; /* Color del texto */
+    max-width: 800px; /* Ancho máximo del contenedor */
+    margin: 20px auto; /* Centrar el contenedor en la página */
+    padding: 20px; /* Espaciado interno */
+    background: #fff; /* Fondo blanco para el contenido */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra del contenedor */
+}
+
+/* Estilos para el título h1 */
+h1 {
+    text-align: center; /* Centrar el texto */
+    color: #32126d; /* Color verde suave */
+    font-size: 3.0em; /* Tamaño de fuente grande */
+    margin-bottom: 20px; /* Espaciado inferior */
+    font-family: 'Whisper', sans-serif; /* Aplicar la fuente personalizada */
+}
+
+/* Estilos para el formulario */
+form {
+    background-color: #f0f8ff; /* Color de fondo del formulario (azul claro) */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra del formulario */
+}
+
+/* Estilos para cada sección del formulario */
+form div {
+    margin-bottom: 15px; /* Espaciado inferior entre secciones */
+}
+
+/* Estilos para las etiquetas */
+label {
+    display: block; /* Mostrar la etiqueta en una nueva línea */
+    font-weight: bold; /* Negrita para las etiquetas */
+    margin-bottom: 5px; /* Espaciado inferior */
+    font-size: 1.2em; /* Tamaño de fuente más grande para etiquetas */
+}
+
+/* Estilos para los campos de entrada */
+input, select, textarea, button {
+    width: 100%; /* Ancho completo del contenedor */
+    padding: 10px; /* Espaciado interno */
+    margin-top: 5px; /* Espaciado superior */
+    border-radius: 4px; /* Bordes redondeados */
+    border: 1px solid #ccc; /* Borde gris claro */
+}
+
+/* Estilos para el botón de enviar */
+button {
+    background-color: #28a745; /* Color verde para el botón */
+    color: white; /* Texto blanco */
+    cursor: pointer; /* Cambiar el cursor al pasar por encima */
+    font-size: 16px; /* Tamaño de fuente */
+}
+
+/* Estilos para el botón al pasar el ratón por encima */
+button:hover {
+    background-color: #218838; /* Color verde más oscuro */
+}
+
+/* Estilos para el campo de texto con una pequeña descripción */
+small {
+    color: #666; /* Color gris para el texto pequeño */
+}
