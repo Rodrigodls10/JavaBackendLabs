@@ -2,4 +2,4 @@
 
 En este repositorio se irán subiendo los labs realizados a lo largo del curso 
 
-Visita mi página [aquí](Frontend/index.html).
+Visita mi página [aquí](Frontend/index.html/00-index.html).
