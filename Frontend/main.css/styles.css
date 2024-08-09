@@ -37,7 +37,7 @@ label {
     display: block; /* Mostrar la etiqueta en una nueva línea */
     font-weight: bold; /* Negrita para las etiquetas */
     margin-bottom: 5px; /* Espaciado inferior */
-    font-size: 1.2em; /* Tamaño de fuente más grande para etiquetas */
+    font-size: 1.5em; /* Tamaño de fuente más grande para etiquetas */
 }
 
 /* Estilos para los campos de entrada */
